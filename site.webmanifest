@@ -1,9 +1,0 @@
-{
-  "name":"重庆瑞坦恩科技有限公司",
-  "short_name":"RELXTAN",
-  "start_url":"./index.html",
-  "display":"standalone",
-  "background_color":"#ffffff",
-  "theme_color":"#0f7a4d",
-  "icons":[{"src":"assets/images/relxtan-symbol.png","sizes":"512x512","type":"image/png"}]
-}
